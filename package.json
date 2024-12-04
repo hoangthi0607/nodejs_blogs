@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hoangthi0607/nodejs_blogs.git"
+  },
+  "keywords": [
+    "thinopro"
+  ],
+  "author": "thideptrai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangthi0607/nodejs_blogs/issues"
+  },
+  "homepage": "https://github.com/hoangthi0607/nodejs_blogs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
